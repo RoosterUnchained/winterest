@@ -1,5 +1,5 @@
 # winterest
-Winterest is a pinterest clone dedicated to putting up sequences of chess moves as images. It's a chess study version of pinterest where students can share sequences from games and books as images.
+An image sharing app dedicated to putting up sequences of chess moves as images for shared study and observation on a social media platform. It's a chess study image sharing tool where students can share sequences from games and books as images.
 
 www.genericplaceholdernamethisisnotrealyet.com this is a link to the live state of the project.
 
